@@ -34,7 +34,7 @@ I would love to collaborate on projects from which I can learn something new and
 </a>
 
 <a href="https://github.com/Mudil27/Stats-Preview-card">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=Stats-Preview-card&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=Stats-Preview-card&theme=tokyonight"/>
 </a><br><br>
 
 <a href="https://github.com/Mudil27/Mudil27">
