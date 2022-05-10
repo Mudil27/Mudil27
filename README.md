@@ -47,7 +47,7 @@ I would love to collaborate on projects from which I can learn something new and
 
 ## 🤝 Contact Me
 
-&#x2709; &rarr; mudilgoel@gmail.com
+&#x2709; &rarr; mudilgoeldev@gmail.com
 
 <a href="https://www.linkedin.com/in/mudil-goel/">
   <img src="https://img.shields.io/badge/Mudil%20Goel-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
