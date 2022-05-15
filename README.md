@@ -29,6 +29,14 @@ I would love to collaborate on projects from which I can learn something new and
 
 <b> Some of the projects I have made </b> <br>
 
+<a href="https://github.com/Mudil27/To-Do-List-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=To-Do-List-App&theme=tokyonight&show_owner" />
+</a> 
+
+<a href="https://github.com/Mudil27/World-Clock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=World-Clock&theme=tokyonight&show_owner" />
+</a> "><br><br>
+ 
 <a href="https://github.com/Mudil27/Huddle-landing-page-with-single-introductory-section">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=Huddle-landing-page-with-single-introductory-section&theme=tokyonight" />
 </a>
@@ -36,10 +44,6 @@ I would love to collaborate on projects from which I can learn something new and
 <a href="https://github.com/Mudil27/Stats-Preview-card">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=Stats-Preview-card&theme=tokyonight"/>
 </a><br><br>
-
-<a href="https://github.com/Mudil27/World-Clock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=World-Clock&theme=tokyonight&show_owner" />
-</a> 
 
 <a href="https://github.com/Mudil27/Mudil27">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=Mudil27&theme=tokyonight&show_owner" />
