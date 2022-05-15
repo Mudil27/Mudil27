@@ -45,10 +45,6 @@ I would love to collaborate on projects from which I can learn something new and
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=Stats-Preview-card&theme=tokyonight"/>
 </a><br><br>
 
-<a href="https://github.com/Mudil27/Mudil27">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=Mudil27&theme=tokyonight&show_owner" />
-</a> <br><br>
-
 ## 🤝 Contact Me
 
 &#x2709; &rarr; mudilgoeldev@gmail.com
