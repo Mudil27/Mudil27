@@ -1,6 +1,6 @@
 <h2> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Mudil Goel </h2>
 
-Hi, I’m Mudil Goel, a Frontend Web developer from India focussed on full stack web development.Trying a number of things out in early years of schooling, i recently found my passion in web development. I'm working on my HTML and CSS skills and gradually learning JS to become a full stack developer. <br>
+Hi, I’m Mudil Goel, a Full Stack Web developer from India.Trying a number of things out in early years of schooling, i recently found my passion in web development. I recently got into Javascript, trying to get a hand on it through some projects and will look forward to learning React.js, Node.js, Express.js etc. <br>
 I would love to collaborate on projects from which I can learn something new and gain more experience. I'm always looking to learning new things and making friends along the way. I started gaining knowledge from a young age, which makes me even more open to channelising my thoughts and ideas, into more structured forms. <br>
 
 - 🧠 I’m currently learning: Javascript
