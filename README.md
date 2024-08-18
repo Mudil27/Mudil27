@@ -3,7 +3,7 @@
 Hi, I’m Mudil Goel, a Front End Web developer from India.Trying a number of things out in early years of schooling, i found my passion in web development. I recently got into Javascript, trying to get a hand on it through some projects and will look forward to learning React.js, Node.js, Express.js etc. <br>
 I would love to collaborate on projects from which I can learn something new and gain more experience. I'm always looking to learning new things and making friends along the way. I started gaining knowledge from a young age, which makes me even more open to channelising my thoughts and ideas, into more structured forms. <br>
 
-- 🧠 I’m currently learning: Javascript
+- 🧠 I’m currently learning: Javascript, C++
 - 💪 I would love to talk about: HTML, CSS and Javascript. I'm enthusiastic about these topics!
 
 ### Learned from
