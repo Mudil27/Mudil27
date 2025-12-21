@@ -1,6 +1,6 @@
 <h2> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Mudil Goel </h2>
 
-Hi, I’m Mudil Goel, a Front End Web developer from India.Trying a number of things out in early years of schooling, i found my passion in web development. I recently got into Javascript, trying to get a hand on it through some projects and will look forward to learning React.js, Node.js, Express.js etc. <br>
+Hi, I’m Mudil Goel, a sophomore in Electrical Engineering at IIT Bombay. <br>
 I would love to collaborate on projects from which I can learn something new and gain more experience. I'm always looking to learning new things and making friends along the way. I started gaining knowledge from a young age, which makes me even more open to channelising my thoughts and ideas, into more structured forms. <br>
 
 - 🧠 I’m currently learning: Javascript, C++
@@ -18,7 +18,7 @@ I would love to collaborate on projects from which I can learn something new and
 ## 🖥️ What I use
 
 ### Tech Stack I like to use
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
 ### All softwares and resources I use while programming
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
