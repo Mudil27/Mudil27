@@ -22,32 +22,17 @@ I would love to collaborate on projects from which I can learn something new and
 
 <b> Some of the projects I have made </b> <br>
 
-<a href="https://github.com/Mudil27/To-Do-List-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=To-Do-List-App&theme=tokyonight&show_owner" />
-</a> 
-
 <a href="https://github.com/Mudil27/World-Clock">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=World-Clock&theme=tokyonight&show_owner" />
 </a> "><br><br>
- 
-<a href="https://github.com/Mudil27/Huddle-landing-page-with-single-introductory-section">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=Huddle-landing-page-with-single-introductory-section&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Mudil27/Stats-Preview-card">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=Stats-Preview-card&theme=tokyonight"/>
-</a><br><br>
+<br><br>
 
 ## 🤝 Contact Me
 
-&#x2709; &rarr; mudilgoeldev@gmail.com
+&#x2709; &rarr; mudilgoel@gmail.com
 
 <a href="https://www.linkedin.com/in/mudil-goel/">
   <img src="https://img.shields.io/badge/Mudil%20Goel-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://telegram.me/The_Invincible27">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 ## 📈 Stats
