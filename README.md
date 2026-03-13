@@ -24,7 +24,7 @@ I would love to collaborate on projects from which I can learn something new and
 
 <a href="https://github.com/Mudil27/Citadel-Algorithmic-Black-Box">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=Citadel-Algorithmic-Black-Box&theme=tokyonight&show_owner" />
-</a> "><br><br>
+</a> ">
 <a href="https://github.com/Mudil27/World-Clock">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mudil27&repo=World-Clock&theme=tokyonight&show_owner" />
 </a> "><br><br>
