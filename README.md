@@ -76,11 +76,5 @@ and practically useful.
 - **Deep Learning** (Transformers, Attention, BERT, GPT internals)
 - **Quantitative Finance** 
 
----
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mudil27&show_icons=true&theme=dark&hide_border=true" width="48%">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudil27&layout=compact&theme=dark&hide_border=true" width="48%">
-</p>
